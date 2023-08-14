@@ -43,9 +43,9 @@
  
  import styles from './styles.module.css';
  
- const TITLE = 'Awesome AZD Templates';
- const DESCRIPTION = 'A community-contributed templates gallery';
- const ADD_URL = 'https://aka.ms/awesome-azd-contribute'
+ const TITLE = 'Middleware Gallery';
+ const DESCRIPTION = 'Running middleware with one click on Azure Spring Apps';
+ const ADD_URL = 'https://learn.microsoft.com/en-us/azure/spring-apps/overview'
 
  type UserState = {
    scrollTopPosition: number;
@@ -137,7 +137,7 @@
          target="_blank"
          rel="noreferrer">
          <Translate id="showcase.header.button">
-           Contribute Your Template! 🙏 
+           Contribute Your Middleware! 🙏
          </Translate>
        </a>
      </section>
@@ -295,7 +295,7 @@
                  )}>
                  <h2>
                    <Translate id="showcase.favoritesList.title">
-                     Featured Templates
+                     Featured Middlewares
                    </Translate>
                  </h2>
                  <FavoriteIcon svgClass={styles.svgIconFavorite} />
@@ -313,7 +313,7 @@
            <div className="container margin-top--lg">
              <h2 className={styles.showcaseHeader}>
                <Translate id="showcase.usersList.allUsers">
-                Other Templates
+                Other Middlewares
               </Translate>
              </h2>
              <ul className={styles.showcaseList}>

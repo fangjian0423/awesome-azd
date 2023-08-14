@@ -65,18 +65,7 @@ const config = {
       // CONFIG: navbar logo, items, style, stickiness
       //    See: https://docusaurus.io/docs/next/api/themes/configuration#navbar
       navbar: {
-        title: 'awesome-azd',
-        logo: {
-          alt: 'Awesome Azd logo',
-          src: 'img/logo.png',
-          href: '/',
-          target: '_self',
-          width: 32,
-          height: 32,
-        },
-
         style: 'primary',
-
         items: [
           // FIXME: TEMPORARILY DISABLE DOCS, BLOG
           //{ label: "Tutorial", position: "left", type: "doc", docId: "intro",},
@@ -135,14 +124,14 @@ const config = {
 
       // CONFIG: Use sparingly to drive attention to a specific call-to-action or new feature
       //    See: https://docusaurus.io/docs/next/api/themes/configuration#announcement-bar
-      announcementBar: {
-        id: 'Latest News for AZD' ,
-        content:
-          'AZD Release Notes - <a href="https://aka.ms/awesome-azd/release-link"> <b>🆕 This Month</b></a> | Give  us a 🌟 <a href="https://github.com/azure/awesome-azd/"><b> on Github</b></a>',
-        backgroundColor: '#000010',
-        textColor: '#ffffff',
-        isCloseable: false,
-      },
+      // announcementBar: {
+      //   id: 'Latest News for AZD' ,
+      //   content:
+      //     'AZD Release Notes - <a href="https://aka.ms/awesome-azd/release-link"> <b>🆕 This Month</b></a> | Give  us a 🌟 <a href="https://github.com/azure/awesome-azd/"><b> on Github</b></a>',
+      //   backgroundColor: '#000010',
+      //   textColor: '#ffffff',
+      //   isCloseable: false,
+      // },
 
     }),
 
