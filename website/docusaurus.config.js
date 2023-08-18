@@ -24,7 +24,7 @@ const config = {
 
   // CONIFIG: Used for GitHub Pages
   url: 'https://azure.github.io',
-  baseUrl: '/awesome-azd/',
+  baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'azure', 
   projectName: 'awesome-azd',
