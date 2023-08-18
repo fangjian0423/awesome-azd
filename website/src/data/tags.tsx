@@ -108,5 +108,17 @@ export const Tags: {[type in TagType]: Tag} = {
         description: 'This tag is used when there is a request for azd templates for a specific architecture. The title will link to arch, the button to a custom-issue for PR',
         color: 'blue',
     },
+
+    configuration: {
+        label: 'Configuration',
+        description: 'This tag is used when there is a request for azd templates for a specific architecture. The title will link to arch, the button to a custom-issue for PR',
+        color: 'yellow',
+    },
+
+    distributedsystem: {
+        label: 'Distributed System',
+        description: 'This tag is used when there is a request for azd templates for a specific architecture. The title will link to arch, the button to a custom-issue for PR',
+        color: 'orange',
+    },
 };
 

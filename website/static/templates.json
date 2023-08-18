@@ -15,12 +15,37 @@
         "title": "Spring Boot Admin",
         "description": "Admin UI for administration of spring boot applications",
         "preview": "./templates/images/icon-spring-boot-admin.svg",
-        "website": "https://github.com/codecentric/spring-boot-admin",
-        "author": "codecentric AG",
-        "source": "https://github.com/codecentric/spring-boot-admin",
+        "website": "https://github.com/fangjian0423/asa-admin",
+        "author": "Jimmy Fang",
+        "source": "https://github.com/fangjian0423/asa-admin",
         "tags": [
             "featured",
             "springboot"
+        ]
+    },
+    {
+        "title": "Apollo Config Server",
+        "description": "Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.",
+        "preview": "./templates/images/apollo.png",
+        "website": "https://github.com/apolloconfig/apollo",
+        "author": "Apollo",
+        "source": "https://github.com/apolloconfig/apollo",
+        "tags": [
+            "featured",
+            "configuration"
+        ]
+    },
+    {
+        "title": "Nacos",
+        "description": "Nacos is an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.",
+        "preview": "./templates/images/nacos.png",
+        "website": "https://github.com/alibaba/nacos",
+        "author": "Nacos",
+        "source": "https://github.com/alibaba/nacos",
+        "tags": [
+            "featured",
+            "configuration",
+            "distributedsystem"
         ]
     }
 ]
