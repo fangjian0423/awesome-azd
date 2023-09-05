@@ -1,11 +1,8 @@
 [
     {
-        "title": "Spring Cloud Gateway",
+        "title": "Spring Cloud Gateway (Not ready)",
         "description": "A Gateway built on Spring Framework and Spring Boot providing routing and more.",
         "preview": "./templates/images/spring-cloud-gateway.png",
-        "website": "https://github.com/spring-cloud/spring-cloud-gateway",
-        "author": "Spring Cloud",
-        "source": "https://github.com/spring-cloud/spring-cloud-gateway",
         "tags": [
             "springcloud",
             "gateway"
@@ -24,24 +21,18 @@
         ]
     },
     {
-        "title": "Apollo Config Server",
+        "title": "Apollo Config Server (Not ready)",
         "description": "Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.",
         "preview": "./templates/images/apollo.png",
-        "website": "https://github.com/apolloconfig/apollo",
-        "author": "Apollo",
-        "source": "https://github.com/apolloconfig/apollo",
         "tags": [
             "featured",
             "configuration"
         ]
     },
     {
-        "title": "Nacos",
+        "title": "Nacos (Not ready)",
         "description": "Nacos is an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.",
         "preview": "./templates/images/nacos.png",
-        "website": "https://github.com/alibaba/nacos",
-        "author": "Nacos",
-        "source": "https://github.com/alibaba/nacos",
         "tags": [
             "featured",
             "configuration",
